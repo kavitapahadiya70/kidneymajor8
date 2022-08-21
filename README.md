@@ -6,7 +6,7 @@
 • https://kidney-disease.herokuapp.com/
 
 
-## Demo
+## image
 
 ![226-2269848_kidney-png-clipart-png-download-human-kidney-vector](https://user-images.githubusercontent.com/99033559/185804212-dc7dbfb9-2c23-4c2b-b8bb-5429097bcc09.png)
 
