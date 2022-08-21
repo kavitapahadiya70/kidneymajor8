@@ -8,7 +8,8 @@
 
 ## Demo
 
-<img src=""C:\Users\Kavita\Downloads\226-2269848_kidney-png-clipart-png-download-human-kidney-vector.png"">
+![226-2269848_kidney-png-clipart-png-download-human-kidney-vector](https://user-images.githubusercontent.com/99033559/185804212-dc7dbfb9-2c23-4c2b-b8bb-5429097bcc09.png)
+
 
 
 ## Dataset
