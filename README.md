@@ -8,8 +8,7 @@
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/kavitapahadiya/Chronic-Kidney-Disease-Prediction-Project/main/Images/gif.gif">
-<img src="https://raw.githubusercontent.com/kavitapahadiya/Chronic-Kidney-Disease-Prediction-Project/main/Images/gif2.gif">
+<img src=""C:\Users\Kavita\Downloads\226-2269848_kidney-png-clipart-png-download-human-kidney-vector.png"">
 
 
 ## Dataset
