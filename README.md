@@ -42,12 +42,6 @@ To run app, run the following command
 ```bash
   python app.run
 ```
-
-  
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/kavitapahadiya/Chronic-Kidney-Disease-Prediction-Project/main/Images/screenshot.png)
-
   
 ## Deployment
 
